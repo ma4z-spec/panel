@@ -4,9 +4,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
 
 # Skyport Panel
-
 ## Overview
 Skyport is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode. [Click here to join our Discord.](https://skyport.privt.xyz/)
+
 
 ## Installation
 You can read our documentation at [skyport.dev](https://skyport.dev)
